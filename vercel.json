@@ -1,0 +1,16 @@
+{
+    "functions": {
+      
+        "/middleware": {
+            "maxDuration": 20 
+          },
+          "/": {
+            "maxDuration": 20 
+          },
+          "/sign-in/[[...sign-in]]": {
+            "maxDuration": 20 
+          }
+
+    }
+  }
+  
